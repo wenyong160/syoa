@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.18.66/oa/zxt/moa.ipa</string>
+					<string>http://202.103.95.225:8006/oa/zxt/moa.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://202.103.100.245:8888/oa/zxt/full-size-image.png</string>
+					<string>http://202.103.95.225:8006/oa/zxt/full-size-image.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://202.103.100.245:8888/oa/zxt/display-image.png</string>
+					<string>http://202.103.95.225:8006/oa/zxt/display-image.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
